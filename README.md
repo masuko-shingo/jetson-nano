@@ -8,7 +8,7 @@ linux,ubuntuに慣れてない方は参考文献に記載されている書籍�
 
 
 #### どんな過程で
-Jetsonnanoのセットアップを行うことや、turtlebot3のSLAMやnavigationのシステムを動かしながら理解する。
+Jetsonnanoのセットアップを行うことや、turtlebot3のSLAMやnavigationのシステムを動かしながら理解する。  
 YOLO等を通して、深層学習を用いた物体認識について動かしながら理解する。
 
 #### なぜJetsonNanoを使うか(変更した理由)
