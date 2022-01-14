@@ -1,4 +1,4 @@
-# jetson-nano
+# Jetson Nano
 自分用jetsonnanoの記録
 ## はじめに
 #### どんなことを学ぶか
