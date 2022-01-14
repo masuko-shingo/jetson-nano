@@ -25,6 +25,7 @@ YOLO等を通して、深層学習を用いた物体認識について動かし�
 ## 環境構築
 Jetsonnano環境構築  
 https://github.com/masuko-shingo/jetson-nano/wiki/Jetsonnano%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89
-実習：SLAM,Navigation  
+実習：Turtlebot3のシステムを動かす(SLAM, Navigation)  
 https://github.com/masuko-shingo/jetson-nano/wiki/Turtlebot3%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99(SLAM,-Navigation)
-実習：画像認識()
+実習：画像認識，物体検出(YOLOv3)  
+https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9A%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98%EF%BC%8C%E7%89%A9%E4%BD%93%E6%A4%9C%E5%87%BA(YOLOv3)
