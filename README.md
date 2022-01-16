@@ -4,7 +4,7 @@ Turltebot3とJetsonNanoを用いた教材のドキュメント
 
 #### なぜJetsonNanoを使うか(変更した理由)
 * GPUが搭載され、深層学習等に用いやすい
-* ロボット機体がturtlebot3ベースで変更前の制御回路がlinux準拠のRaspberryPiのため、搭載しやすい
+* turltebot3ベースのロボット機体なので，変更前の制御回路RaspberryPiと同じくlinux準拠かつ，搭載しやすいサイズ
 * 身近で一番普及しているもので構成した
 
 ## はじめに
