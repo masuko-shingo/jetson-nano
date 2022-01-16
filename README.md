@@ -31,8 +31,8 @@ Jetsonnano環境構築
 https://github.com/masuko-shingo/jetson-nano/wiki/Jetsonnano%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89
 
 ## 実習のドキュメント
-はじめに：
-
+はじめに  
+https://github.com/masuko-shingo/jetson-nano/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB
 実習：Turtlebot3のシステムを動かす(SLAM, Navigation)  
 https://github.com/masuko-shingo/jetson-nano/wiki/Turtlebot3%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99(SLAM,-Navigation)
 
