@@ -1,5 +1,5 @@
 # Jetson Nano
-自分用jetsonnanoの記録  
+自分用jetsonnanoの記録するリポジトリ  
 Turltebot3とJetsonNanoを用いた教材のドキュメント  
 
 #### なぜJetsonNanoを使うか(変更した理由)
