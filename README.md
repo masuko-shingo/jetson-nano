@@ -23,8 +23,17 @@ YOLO等を通して、深層学習を用いた物体認識について動かし�
 今回使う環境は以下の通りです。  
 (使う機材や環境をまとめた表を載せる）
 
-### 構成
-ハードウェア構成図
+ハードウェア構成表
+| Item | Model | Quantiny |
+| :--- | :---: | :---: |
+| Base Robot | Tutlebot3 | 1 |
+| Actuators | DYNAMIXEL XL430-W250 | 2 |
+| Battery | LI-PO Battery 11.1V 1800mAh | 1 |
+| Lidar | LDS-01(HLS-LFCD2) | 1 |
+| SBC | OpenCR 1.0 | 1 |
+|  | Jetson Nano Developer Kit a02 | 1 |
+| Camera | Microsoft LifeCam HD5000 7ND-00006 | 1 |
+| WiFi Dongle | TP-Link TL-WN725N | 1 |
 
 配線図  
 ![OV-electrical-circuits](https://user-images.githubusercontent.com/72721963/149656563-da94c3ae-b666-449d-8ca7-84106d417e76.png)
