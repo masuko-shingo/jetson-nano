@@ -43,7 +43,7 @@ https://www.amazon.co.jp/Ubuntu%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%
 ## どんな過程で
 - ナビゲーション  
 ナビゲーション面については，  
-SLAMやナビゲーションのシステムについてTurltebot3-rosパッケージを動かしながら理解する。  
+SLAMやナビゲーションのシステムについてTurtlebot3-rosパッケージを動かしながら理解する。  
 - 深層学習  
 深層学習については，  
 YOLOv3を用いた、データセットの作成，学習，推論(物体検出)を行う実習を通して，深層学習を用いた物体検出について動かしながら理解する。  
@@ -55,7 +55,7 @@ YOLOv3を用いた、データセットの作成，学習，推論(物体検出)
 #### ハードウェア構成表
 | Item | Model | Quantiny |
 | :--- | :---: | :---: |
-| Base Robot | Tutlebot3 | 1 |
+| Base Robot | Turtlebot3 | 1 |
 | Actuators | DYNAMIXEL XL430-W250 | 2 |
 | Battery | LI-PO Battery 11.1V 1800mAh | 1 |
 | Lidar | LDS-01(HLS-LFCD2) | 1 |
