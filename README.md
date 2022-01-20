@@ -34,9 +34,12 @@ YOLO等を通して、深層学習を用いた物体認識について動かし�
 | Camera | Microsoft LifeCam HD5000 7ND-00006 | 1 |
 | WiFi Dongle | TP-Link TL-WN725N | 1 |
 
-配線図  
-![OV-electrical-circuits](https://user-images.githubusercontent.com/72721963/149656563-da94c3ae-b666-449d-8ca7-84106d417e76.png)
+配線図
+![電気配線回路ブロック図(ハード)](https://user-images.githubusercontent.com/72721963/150422835-86211800-9806-4cfd-a970-539c2638760d.png)
 
+<!--
+![OV-electrical-circuits](https://user-images.githubusercontent.com/72721963/149656563-da94c3ae-b666-449d-8ca7-84106d417e76.png)
+-->
 ソフトウェア構成図
 ## 環境構築
 Jetsonnano環境構築  
