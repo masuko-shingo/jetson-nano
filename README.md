@@ -74,7 +74,7 @@ YOLOv3を用いた、データセットの作成，学習，推論(物体検出)
 Jetsonnano環境構築  
 https://github.com/masuko-shingo/jetson-nano/wiki/Jetsonnano%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89
 
-## 実習のドキュメント
+## ドキュメント
 はじめに  
 https://github.com/masuko-shingo/jetson-nano/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB  
 実習：Turtlebot3のシステムを動かす(SLAM, Navigation)  
