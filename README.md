@@ -13,7 +13,9 @@ linux、ubuntuをある程度使えるようになり、自律移動やnavigatio
 加えて物体認識など深層学習を用いた技術を扱える、開発できるようになる.
 
 ※linux,ubuntuに慣れてない方は参考文献に記載されている書籍等を読みながら進めると良いと思います。  
-[参考]：
+[参考書籍]：Ubuntuスタートアップバイブル  
+https://www.amazon.co.jp/Ubuntu%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%83%96%E3%83%AB-%E5%B0%8F%E6%9E%97-%E6%BA%96/dp/4839964866
+
 #### どんな過程で
 JetsonNanoのセットアップを行うことや、turtlebot3のSLAMやnavigationのシステムを動かしながら理解する。  
 YOLO等を通して、深層学習を用いた物体認識について動かしながら理解する。
@@ -37,10 +39,10 @@ YOLO等を通して、深層学習を用いた物体認識について動かし�
 配線図
 ![電気配線回路ブロック図(ハード)](https://user-images.githubusercontent.com/72721963/150422835-86211800-9806-4cfd-a970-539c2638760d.png)
 
+
 <!--
-![OV-electrical-circuits](https://user-images.githubusercontent.com/72721963/149656563-da94c3ae-b666-449d-8ca7-84106d417e76.png)
--->
 ソフトウェア構成図
+-->
 ## 環境構築
 Jetsonnano環境構築  
 https://github.com/masuko-shingo/jetson-nano/wiki/Jetsonnano%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89
