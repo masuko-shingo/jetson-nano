@@ -26,7 +26,7 @@ YOLO等を通して、深層学習を用いた物体認識について動かし�
 ## 環境
 今回使う環境は以下の通りです。  
 
-ハードウェア構成表
+#### ハードウェア構成表
 | Item | Model | Quantiny |
 | :--- | :---: | :---: |
 | Base Robot | Tutlebot3 | 1 |
@@ -38,7 +38,7 @@ YOLO等を通して、深層学習を用いた物体認識について動かし�
 | Camera | Microsoft LifeCam HD5000 7ND-00006 | 1 |
 | WiFi Dongle | TP-Link TL-WN725N | 1 |
 
-配線図
+#### 配線図  
 ![電気配線回路ブロック図(ハード)](https://user-images.githubusercontent.com/72721963/150423909-6bc43ef9-ece2-4a26-af5e-6e294c44b737.png)
 
 <!--
