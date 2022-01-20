@@ -2,7 +2,7 @@
 <!--
 自分用jetsonnanoの記録するリポジトリ  
 -->
-Turltebot3とJetsonNanoを用いた教材のドキュメント  
+Turtlebot3とJetsonNanoを用いた教材のドキュメント  
 
 #### なぜTurtlebot3,JetsonNanoを使うか
 * GPUが搭載され、深層学習等に用いやすい
