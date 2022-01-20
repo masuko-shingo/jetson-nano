@@ -49,4 +49,4 @@ https://github.com/masuko-shingo/jetson-nano/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3
 https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9ASLAM,-Navigation(Turtlebot3)
 
 実習：画像認識，物体検出(YOLOv3)  
-https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9A%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98%EF%BC%8C%E7%89%A9%E4%BD%93%E6%A4%9C%E5%87%BA(YOLOv3)
+https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9A%E7%89%A9%E4%BD%93%E6%A4%9C%E5%87%BA(YOLOv3)
