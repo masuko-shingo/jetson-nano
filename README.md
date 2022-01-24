@@ -1,15 +1,16 @@
-# Jetson Nano
+# はじめに
 <!--
+# Jetson Nano
+
 自分用jetsonnanoの記録するリポジトリ  
 -->
-Turtlebot3とJetsonNanoを用いた教材のドキュメント  
+Turtlebot3とJetsonNanoを用いたロボット教材のドキュメント  
 
 #### なぜTurtlebot3,JetsonNanoを使うか
 * GPUが搭載され、深層学習等に用いやすい
 * turltebot3ベースのロボット機体，変更前の制御回路RaspberryPiと同じくlinuxOS，搭載しやすいサイズ
 * 身近で一番普及しているもので構成した
 
-## はじめに
 <!--
 近年，自律移動ロボットの需要が増えており，深層学習を利用して，物体認識を行うような技術の開発が急速に進みつつあります．  
 自律移動ロボットの例として，Turtlebot3を挙げます．  
