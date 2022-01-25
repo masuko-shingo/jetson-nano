@@ -83,7 +83,7 @@ https://github.com/masuko-shingo/jetson-nano/wiki/Jetsonnano%E7%92%B0%E5%A2%83%E
 はじめに  
 https://github.com/masuko-shingo/jetson-nano/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB  
 実習：Turtlebot3のシステムを動かす(SLAM, Navigation)  
-https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9ASLAM,-Navigation(Turtlebot3)
+https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9ASLAM,-Navigation(Turtlebot3%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8)
 
 実習：画像認識，物体検出(YOLOv3)  
 https://github.com/masuko-shingo/jetson-nano/wiki/%E5%AE%9F%E7%BF%92%EF%BC%9A%E7%89%A9%E4%BD%93%E6%A4%9C%E5%87%BA(YOLOv3)
