@@ -72,9 +72,13 @@ YOLOv3を用いた、データセットの作成，学習，推論(物体検出)
 ### 配線図  
 ![電気配線回路ブロック図(ハード)](https://user-images.githubusercontent.com/72721963/150423909-6bc43ef9-ece2-4a26-af5e-6e294c44b737.png)
 
-<!--
-ソフトウェア構成図
--->
+### ソフトウェア構成表
+| 　| PC | SBC(JetsonNano) |
+| :--- | :---: | :---: |
+| OS | Ubuntu 18.04 LTS 64bit | JetPack 4.5.1 ( Ubuntu 18.04 ) |
+| Middleware (ROS) | ROS(melodic) | ROS(melodic) |
+| YOLO | - | YOLOv3(darknet) |
+
 ## 環境構築
 Jetsonnano環境構築  
 https://github.com/masuko-shingo/jetson-nano/wiki/Jetsonnano%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89
