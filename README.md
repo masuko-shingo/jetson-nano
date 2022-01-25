@@ -63,7 +63,7 @@ YOLOv3を用いた、データセットの作成，学習，推論(物体検出)
 | Base Robot | Turtlebot3 | 1 |
 | Actuators | DYNAMIXEL XL430-W250 | 2 |
 | Battery | LI-PO Battery 11.1V 1800mAh | 1 |
-| LiDAR | LDS-01(HLS-LFCD2) | 1 |
+| LiDAR | LDS-01 (HLS-LFCD2) | 1 |
 | SBC | OpenCR 1.0 | 1 |
 |  | Jetson Nano Developer Kit a02 | 1 |
 | Camera | Microsoft LifeCam HD5000 7ND-00006 | 1 |
